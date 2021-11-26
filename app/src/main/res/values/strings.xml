@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MusicFun</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="library">Library</string>
+    <string name="setting">Setting</string>
+    <string name="personName">Name</string>
+    <string name="title">Title:-</string>
+    <string name="duration">Duration:-</string>
+    <string name="artist">Artist:-</string>
+    <string name="songName">Name:-</string>
+    <string name="divider">|</string>
+    <string name="musicPlayerFragment">musicPlayerFragment</string>
+</resources>
